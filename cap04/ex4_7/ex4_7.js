@@ -11,4 +11,4 @@ if( peixes <= pessoas ){
   pagar = (pessoas * 20) + ((peixes - pessoas) * 12)
 }
 
-console.log(`pagar R$: ${pagar.toFixed(2)}`)
+console.log(`pagar R$: ${pagar.toFixed(2)}`) 
